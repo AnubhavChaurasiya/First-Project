@@ -1,0 +1,12 @@
+table,tr,th,td{
+    border:3px solid blue;
+    border-left-color: red;
+    border-right-color:green;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+    border-radius: 5px;
+    padding: 16px;
+    background-color:rgb(255, 166, 0);
+    width: 60%;
+    text-align: center
+}
